@@ -1,0 +1,612 @@
+
+ Log Entry:11:11:17 AM Wednesday, May 4, 2022
+   :Login Successfull
+----------------------------------------------
+
+ Log Entry:2:31:25 PM Wednesday, May 4, 2022
+   :Member is loaded
+----------------------------------------------
+
+ Log Entry:2:31:25 PM Wednesday, May 4, 2022
+   :Showing the orders
+----------------------------------------------
+
+ Log Entry:2:31:25 PM Wednesday, May 4, 2022
+   :Login Successfull
+----------------------------------------------
+
+ Log Entry:2:31:34 PM Wednesday, May 4, 2022
+   :Added to the cart
+----------------------------------------------
+
+ Log Entry:2:31:47 PM Wednesday, May 4, 2022
+   :Placed the order
+----------------------------------------------
+
+ Log Entry:2:37:27 PM Wednesday, May 4, 2022
+   :Showing details
+----------------------------------------------
+
+ Log Entry:2:40:58 PM Wednesday, May 4, 2022
+   :Logged out
+----------------------------------------------
+
+ Log Entry:2:41:44 PM Wednesday, May 4, 2022
+   :Member is loaded
+----------------------------------------------
+
+ Log Entry:2:41:44 PM Wednesday, May 4, 2022
+   :Showing the orders
+----------------------------------------------
+
+ Log Entry:2:41:44 PM Wednesday, May 4, 2022
+   :Login Successfull
+----------------------------------------------
+
+ Log Entry:2:42:14 PM Wednesday, May 4, 2022
+   :Logged out
+----------------------------------------------
+
+ Log Entry:6:10:34 PM Wednesday, May 4, 2022
+   :Member is loaded
+----------------------------------------------
+
+ Log Entry:6:10:34 PM Wednesday, May 4, 2022
+   :Showing the orders
+----------------------------------------------
+
+ Log Entry:6:10:34 PM Wednesday, May 4, 2022
+   :Login Successfull
+----------------------------------------------
+
+ Log Entry:6:11:53 PM Wednesday, May 4, 2022
+   :Member is loaded
+----------------------------------------------
+
+ Log Entry:6:11:53 PM Wednesday, May 4, 2022
+   :Showing the orders
+----------------------------------------------
+
+ Log Entry:6:11:53 PM Wednesday, May 4, 2022
+   :Login Successfull
+----------------------------------------------
+
+ Log Entry:6:12:11 PM Wednesday, May 4, 2022
+   :Logged out
+----------------------------------------------
+
+ Log Entry:6:19:13 PM Wednesday, May 4, 2022
+   :OTP is sent
+----------------------------------------------
+
+ Log Entry:6:20:08 PM Wednesday, May 4, 2022
+   :OTP verification is done
+----------------------------------------------
+
+ Log Entry:6:20:43 PM Wednesday, May 4, 2022
+   :Member is loaded
+----------------------------------------------
+
+ Log Entry:6:20:43 PM Wednesday, May 4, 2022
+   :Showing the orders
+----------------------------------------------
+
+ Log Entry:6:20:43 PM Wednesday, May 4, 2022
+   :Login Successfull
+----------------------------------------------
+
+ Log Entry:6:20:46 PM Wednesday, May 4, 2022
+   :Showing details
+----------------------------------------------
+
+ Log Entry:6:21:10 PM Wednesday, May 4, 2022
+   :Added to the cart
+----------------------------------------------
+
+ Log Entry:6:21:16 PM Wednesday, May 4, 2022
+   :Placed the order
+----------------------------------------------
+
+ Log Entry:6:21:20 PM Wednesday, May 4, 2022
+   :Showing the orders
+----------------------------------------------
+
+ Log Entry:6:21:20 PM Wednesday, May 4, 2022
+   :btnrefresh
+----------------------------------------------
+
+ Log Entry:6:21:38 PM Wednesday, May 4, 2022
+   :Printing the orders bill
+----------------------------------------------
+
+ Log Entry:6:23:19 PM Wednesday, May 4, 2022
+   :Member is loaded
+----------------------------------------------
+
+ Log Entry:6:23:19 PM Wednesday, May 4, 2022
+   :Member is added
+----------------------------------------------
+
+ Log Entry:6:23:28 PM Wednesday, May 4, 2022
+   :Logged out
+----------------------------------------------
+
+ Log Entry:6:46:09 PM Wednesday, May 4, 2022
+   :OTP is sent
+----------------------------------------------
+
+ Log Entry:6:49:49 PM Wednesday, May 4, 2022
+   :OTP is sent
+----------------------------------------------
+
+ Log Entry:6:50:29 PM Wednesday, May 4, 2022
+   :OTP verification is done
+----------------------------------------------
+
+ Log Entry:10:14:58 AM Thursday, May 5, 2022
+   :uc_loadConversion failed when converting the varchar value 'username' to data type int.
+----------------------------------------------
+
+ Log Entry:10:14:58 AM Thursday, May 5, 2022
+   :Member is loaded
+----------------------------------------------
+
+ Log Entry:10:14:58 AM Thursday, May 5, 2022
+   :Showing the orders
+----------------------------------------------
+
+ Log Entry:10:14:58 AM Thursday, May 5, 2022
+   :Login Successfull
+----------------------------------------------
+
+ Log Entry:10:15:06 AM Thursday, May 5, 2022
+   :Showing details
+----------------------------------------------
+
+ Log Entry:10:15:15 AM Thursday, May 5, 2022
+   :Logged out
+----------------------------------------------
+
+ Log Entry:1:23:37 PM Thursday, May 5, 2022
+   :OTP is sent
+----------------------------------------------
+
+ Log Entry:1:23:51 PM Thursday, May 5, 2022
+   :OTP verification is done
+----------------------------------------------
+
+ Log Entry:1:24:36 PM Thursday, May 5, 2022
+   :uc_loadConversion failed when converting the varchar value 'username' to data type int.
+----------------------------------------------
+
+ Log Entry:1:24:36 PM Thursday, May 5, 2022
+   :Member is loaded
+----------------------------------------------
+
+ Log Entry:1:24:36 PM Thursday, May 5, 2022
+   :Showing the orders
+----------------------------------------------
+
+ Log Entry:1:24:36 PM Thursday, May 5, 2022
+   :Login Successfull
+----------------------------------------------
+
+ Log Entry:1:24:40 PM Thursday, May 5, 2022
+   :Showing details
+----------------------------------------------
+
+ Log Entry:1:25:25 PM Thursday, May 5, 2022
+   :Logged out
+----------------------------------------------
+
+ Log Entry:9:42:16 AM Friday, May 6, 2022
+   :uc_loadConversion failed when converting the varchar value 'username' to data type int.
+----------------------------------------------
+
+ Log Entry:9:42:16 AM Friday, May 6, 2022
+   :Member is loaded
+----------------------------------------------
+
+ Log Entry:9:42:16 AM Friday, May 6, 2022
+   :Showing the orders
+----------------------------------------------
+
+ Log Entry:9:42:16 AM Friday, May 6, 2022
+   :Login Successfull
+----------------------------------------------
+
+ Log Entry:9:42:35 AM Friday, May 6, 2022
+   :Added to the cart
+----------------------------------------------
+
+ Log Entry:9:42:42 AM Friday, May 6, 2022
+   :Placed the order
+----------------------------------------------
+
+ Log Entry:9:42:47 AM Friday, May 6, 2022
+   :Showing the orders
+----------------------------------------------
+
+ Log Entry:9:42:47 AM Friday, May 6, 2022
+   :btnrefresh
+----------------------------------------------
+
+ Log Entry:9:45:14 AM Friday, May 6, 2022
+   :uc_loadConversion failed when converting the varchar value 'username' to data type int.
+----------------------------------------------
+
+ Log Entry:9:45:14 AM Friday, May 6, 2022
+   :Member is loaded
+----------------------------------------------
+
+ Log Entry:9:45:15 AM Friday, May 6, 2022
+   :Showing the orders
+----------------------------------------------
+
+ Log Entry:9:45:15 AM Friday, May 6, 2022
+   :Login Successfull
+----------------------------------------------
+
+ Log Entry:9:57:28 AM Friday, May 6, 2022
+   :Inserted into the Database
+----------------------------------------------
+
+ Log Entry:9:57:43 AM Friday, May 6, 2022
+   :uc_loadConversion failed when converting the varchar value 'username' to data type int.
+----------------------------------------------
+
+ Log Entry:9:57:43 AM Friday, May 6, 2022
+   :Member is loaded
+----------------------------------------------
+
+ Log Entry:9:57:43 AM Friday, May 6, 2022
+   :Showing the orders
+----------------------------------------------
+
+ Log Entry:9:57:43 AM Friday, May 6, 2022
+   :Login Successfull
+----------------------------------------------
+
+ Log Entry:9:57:46 AM Friday, May 6, 2022
+   :Showing details
+----------------------------------------------
+
+ Log Entry:9:57:55 AM Friday, May 6, 2022
+   :Updated Values
+----------------------------------------------
+
+ Log Entry:9:58:12 AM Friday, May 6, 2022
+   :Added to the cart
+----------------------------------------------
+
+ Log Entry:9:58:39 AM Friday, May 6, 2022
+   :Added to the cart
+----------------------------------------------
+
+ Log Entry:9:58:49 AM Friday, May 6, 2022
+   :Placed the order
+----------------------------------------------
+
+ Log Entry:9:58:53 AM Friday, May 6, 2022
+   :Placed the order
+----------------------------------------------
+
+ Log Entry:9:58:57 AM Friday, May 6, 2022
+   :Showing the orders
+----------------------------------------------
+
+ Log Entry:9:58:57 AM Friday, May 6, 2022
+   :btnrefresh
+----------------------------------------------
+
+ Log Entry:9:59:35 AM Friday, May 6, 2022
+   :Printing the orders bill
+----------------------------------------------
+
+ Log Entry:10:00:24 AM Friday, May 6, 2022
+   :Member is loaded
+----------------------------------------------
+
+ Log Entry:10:00:24 AM Friday, May 6, 2022
+   :Member is added
+----------------------------------------------
+
+ Log Entry:10:00:39 AM Friday, May 6, 2022
+   :Member is loaded
+----------------------------------------------
+
+ Log Entry:10:00:39 AM Friday, May 6, 2022
+   :Updated the member
+----------------------------------------------
+
+ Log Entry:10:01:00 AM Friday, May 6, 2022
+   :Logged out
+----------------------------------------------
+
+ Log Entry:10:14:59 AM Friday, May 6, 2022
+   :uc_loadConversion failed when converting the varchar value 'username' to data type int.
+----------------------------------------------
+
+ Log Entry:10:14:59 AM Friday, May 6, 2022
+   :Member is loaded
+----------------------------------------------
+
+ Log Entry:10:14:59 AM Friday, May 6, 2022
+   :Showing the orders
+----------------------------------------------
+
+ Log Entry:10:14:59 AM Friday, May 6, 2022
+   :Login Successfull
+----------------------------------------------
+
+ Log Entry:10:15:07 AM Friday, May 6, 2022
+   :Showing the orders
+----------------------------------------------
+
+ Log Entry:10:15:07 AM Friday, May 6, 2022
+   :btnrefresh
+----------------------------------------------
+
+ Log Entry:10:15:56 AM Friday, May 6, 2022
+   :uc_loadConversion failed when converting the varchar value 'username' to data type int.
+----------------------------------------------
+
+ Log Entry:10:15:56 AM Friday, May 6, 2022
+   :Member is loaded
+----------------------------------------------
+
+ Log Entry:10:15:56 AM Friday, May 6, 2022
+   :Showing the orders
+----------------------------------------------
+
+ Log Entry:10:15:56 AM Friday, May 6, 2022
+   :Login Successfull
+----------------------------------------------
+
+ Log Entry:10:18:31 AM Friday, May 6, 2022
+   :uc_loadConversion failed when converting the varchar value 'username' to data type int.
+----------------------------------------------
+
+ Log Entry:10:18:31 AM Friday, May 6, 2022
+   :Member is loaded
+----------------------------------------------
+
+ Log Entry:10:18:31 AM Friday, May 6, 2022
+   :Showing the orders
+----------------------------------------------
+
+ Log Entry:10:18:31 AM Friday, May 6, 2022
+   :Login Successfull
+----------------------------------------------
+
+ Log Entry:10:18:35 AM Friday, May 6, 2022
+   :Showing the orders
+----------------------------------------------
+
+ Log Entry:10:18:35 AM Friday, May 6, 2022
+   :btnrefresh
+----------------------------------------------
+
+ Log Entry:10:22:15 AM Friday, May 6, 2022
+   :uc_loadConversion failed when converting the varchar value 'username' to data type int.
+----------------------------------------------
+
+ Log Entry:10:22:16 AM Friday, May 6, 2022
+   :Member is loaded
+----------------------------------------------
+
+ Log Entry:10:22:16 AM Friday, May 6, 2022
+   :Showing the orders
+----------------------------------------------
+
+ Log Entry:10:22:16 AM Friday, May 6, 2022
+   :Login Successfull
+----------------------------------------------
+
+ Log Entry:11:02:12 AM Friday, May 6, 2022
+   :OTP is sent
+----------------------------------------------
+
+ Log Entry:11:04:03 AM Friday, May 6, 2022
+   :OTP is sent
+----------------------------------------------
+
+ Log Entry:11:04:11 AM Friday, May 6, 2022
+   :OTP verification is done
+----------------------------------------------
+
+ Log Entry:11:04:57 AM Friday, May 6, 2022
+   :Login Successfull
+----------------------------------------------
+
+ Log Entry:11:05:02 AM Friday, May 6, 2022
+   :Login Successfull
+----------------------------------------------
+
+ Log Entry:11:05:03 AM Friday, May 6, 2022
+   :Login Successfull
+----------------------------------------------
+
+ Log Entry:11:05:04 AM Friday, May 6, 2022
+   :Login Successfull
+----------------------------------------------
+
+ Log Entry:11:05:04 AM Friday, May 6, 2022
+   :Login Successfull
+----------------------------------------------
+
+ Log Entry:11:05:04 AM Friday, May 6, 2022
+   :Login Successfull
+----------------------------------------------
+
+ Log Entry:11:05:04 AM Friday, May 6, 2022
+   :Login Successfull
+----------------------------------------------
+
+ Log Entry:11:05:04 AM Friday, May 6, 2022
+   :Login Successfull
+----------------------------------------------
+
+ Log Entry:11:05:04 AM Friday, May 6, 2022
+   :Login Successfull
+----------------------------------------------
+
+ Log Entry:11:05:20 AM Friday, May 6, 2022
+   :Login Successfull
+----------------------------------------------
+
+ Log Entry:11:05:23 AM Friday, May 6, 2022
+   :Login Successfull
+----------------------------------------------
+
+ Log Entry:11:05:57 AM Friday, May 6, 2022
+   :uc_loadConversion failed when converting the varchar value 'username' to data type int.
+----------------------------------------------
+
+ Log Entry:11:05:57 AM Friday, May 6, 2022
+   :Member is loaded
+----------------------------------------------
+
+ Log Entry:11:05:57 AM Friday, May 6, 2022
+   :Showing the orders
+----------------------------------------------
+
+ Log Entry:11:05:57 AM Friday, May 6, 2022
+   :Login Successfull
+----------------------------------------------
+
+ Log Entry:11:19:41 AM Friday, May 6, 2022
+   :Logged out
+----------------------------------------------
+
+ Log Entry:11:29:46 AM Friday, May 6, 2022
+   :uc_myorders_loadConversion failed when converting the varchar value 'username' to data type int.
+----------------------------------------------
+
+ Log Entry:11:29:46 AM Friday, May 6, 2022
+   :Member is loaded
+----------------------------------------------
+
+ Log Entry:11:29:46 AM Friday, May 6, 2022
+   :Showing the orders
+----------------------------------------------
+
+ Log Entry:11:29:47 AM Friday, May 6, 2022
+   :Login Successfull
+----------------------------------------------
+
+ Log Entry:11:30:07 AM Friday, May 6, 2022
+   :Logged out
+----------------------------------------------
+
+ Log Entry:11:33:30 AM Friday, May 6, 2022
+   :uc_myorders_loadConversion failed when converting the varchar value 'username' to data type int.
+----------------------------------------------
+
+ Log Entry:11:33:30 AM Friday, May 6, 2022
+   :Member is loaded
+----------------------------------------------
+
+ Log Entry:11:33:30 AM Friday, May 6, 2022
+   :Showing the orders
+----------------------------------------------
+
+ Log Entry:11:33:31 AM Friday, May 6, 2022
+   :Login Successfull
+----------------------------------------------
+
+ Log Entry:11:34:41 AM Friday, May 6, 2022
+   :Member is loaded
+----------------------------------------------
+
+ Log Entry:11:34:41 AM Friday, May 6, 2022
+   :Showing the orders
+----------------------------------------------
+
+ Log Entry:11:34:41 AM Friday, May 6, 2022
+   :Login Successfull
+----------------------------------------------
+
+ Log Entry:11:34:45 AM Friday, May 6, 2022
+   :Logged out
+----------------------------------------------
+
+ Log Entry:1:52:33 PM Friday, May 6, 2022
+   :Member is loaded
+----------------------------------------------
+
+ Log Entry:1:52:33 PM Friday, May 6, 2022
+   :Showing the orders
+----------------------------------------------
+
+ Log Entry:1:52:33 PM Friday, May 6, 2022
+   :Login Successfull
+----------------------------------------------
+
+ Log Entry:1:52:35 PM Friday, May 6, 2022
+   :Logged out
+----------------------------------------------
+
+ Log Entry:3:15:14 PM Friday, May 6, 2022
+   :Member is loaded
+----------------------------------------------
+
+ Log Entry:3:15:14 PM Friday, May 6, 2022
+   :Showing the orders
+----------------------------------------------
+
+ Log Entry:3:15:15 PM Friday, May 6, 2022
+   :Login Successfull
+----------------------------------------------
+
+ Log Entry:3:15:27 PM Friday, May 6, 2022
+   :Showing details
+----------------------------------------------
+
+ Log Entry:3:16:07 PM Friday, May 6, 2022
+   :Added to the cart
+----------------------------------------------
+
+ Log Entry:3:16:40 PM Friday, May 6, 2022
+   :Added to the cart
+----------------------------------------------
+
+ Log Entry:3:16:47 PM Friday, May 6, 2022
+   :Removed from the Cart
+----------------------------------------------
+
+ Log Entry:3:17:01 PM Friday, May 6, 2022
+   :Placed the order
+----------------------------------------------
+
+ Log Entry:3:17:04 PM Friday, May 6, 2022
+   :Showing the orders
+----------------------------------------------
+
+ Log Entry:3:17:04 PM Friday, May 6, 2022
+   :btnrefresh
+----------------------------------------------
+
+ Log Entry:3:17:31 PM Friday, May 6, 2022
+   :Printing the orders bill
+----------------------------------------------
+
+ Log Entry:3:19:00 PM Friday, May 6, 2022
+   :Logged out
+----------------------------------------------
+
+ Log Entry:5:11:12 PM Friday, May 6, 2022
+   :Member is loaded
+----------------------------------------------
+
+ Log Entry:5:11:12 PM Friday, May 6, 2022
+   :Showing the orders
+----------------------------------------------
+
+ Log Entry:5:11:12 PM Friday, May 6, 2022
+   :Login Successfull
+----------------------------------------------
+
+ Log Entry:5:11:15 PM Friday, May 6, 2022
+   :Logged out
+----------------------------------------------

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-Pharma App", "E-Pharma App.csproj", "{7AECF250-D801-40D1-A966-9EE430DB38E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C5525CCA-493A-4063-8DB4-F3213A8C2B19}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		..\..\..\Downloads\DGVPrinter.cs = ..\..\..\Downloads\DGVPrinter.cs
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-PharmaTest", "..\E-PharmaTest\E-PharmaTest.csproj", "{96018ABF-E094-484D-ACCD-EEFCE7B50248}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AECF250-D801-40D1-A966-9EE430DB38E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AECF250-D801-40D1-A966-9EE430DB38E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AECF250-D801-40D1-A966-9EE430DB38E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AECF250-D801-40D1-A966-9EE430DB38E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96018ABF-E094-484D-ACCD-EEFCE7B50248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96018ABF-E094-484D-ACCD-EEFCE7B50248}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96018ABF-E094-484D-ACCD-EEFCE7B50248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96018ABF-E094-484D-ACCD-EEFCE7B50248}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13DF1424-1C94-4EF3-862E-277B7517031E}
+	EndGlobalSection
+EndGlobal
